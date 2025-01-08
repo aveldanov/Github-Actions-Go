@@ -6,6 +6,7 @@ require (
 	github.com/gin-gonic/gin v1.8.2
 	github.com/stretchr/testify v1.8.1
 	gotest.tools/gotestsum v1.9.0
+	honnef.co/go/tools v0.4.0
 )
 
 require (
